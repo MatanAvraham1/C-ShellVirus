@@ -1,0 +1,3 @@
+commands:
+ransom - 0
+fix ransom - 1
