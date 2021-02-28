@@ -1,4 +1,4 @@
-# ShellVirus
+# C-ShellVirus
 
 Welcome to my C shell virus project!
 
